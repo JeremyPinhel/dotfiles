@@ -11,9 +11,7 @@ brew 'bash' # Bash 4
 brew 'coreutils' # Those that come with macOS are outdated
 brew 'git'
 brew 'grep'
-brew 'mackup'
-brew 'mas'
-brew 'trash'
+brew 'tmux'
 brew 'tree'
 brew 'zsh'
 brew 'zsh-completions'
